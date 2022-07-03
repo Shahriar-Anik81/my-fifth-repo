@@ -1,0 +1,97 @@
+.common{
+	height: 300px;
+	background-color: yellow;
+}
+
+.Hezbullah{
+	width: 70%;
+	display: inline-block;
+	text-align: justify;
+}
+.img{
+	display: inline-block;
+    margin: 51px 68px 62px 50px ;
+}
+.war1{
+     background-image: url("Images/Image 1.jpg");
+     background-repeat: no-repeat;
+	 background-size: cover;
+	 background-attachment: fixed;
+	 height: initial;
+	 height: 630px;
+}
+.Hamas{
+       width: 70%;
+       text-align: justify;
+       display: inline-block;
+}
+.img1{
+     display: inline-block;
+     margin: 34px 0px 0px 60px;
+}
+.flag{
+	padding: 100px 0px;
+	margin: auto;
+}
+.flag .green{
+	height: 400px;
+	width: 600px;
+	background: green;
+	padding: 100px;
+	margin: auto;
+}
+.flag .green .red{
+	height: 300px;
+	width: 300px;
+	border-radius: 50%;
+	background: red;
+	margin: 60px auto;
+}
+
+.a_flag{
+	padding: 150px;
+	margin: auto;
+}
+.a_red{
+	background: red;
+	width: 650px;
+	height: 600px;
+	display: inline-block;
+}
+.a_flag .a_red .a_green{
+	background: green;
+	width: 450px;
+	height: 200px;
+	margin: 0px 0px 0px 200px;
+}
+
+.a_flag .a_red .white{
+	background: white;
+	width: 450px;
+	height: 200px;
+	margin: 0px 0px 0px 200px;
+}
+
+.a_flag .a_red .black{
+	background: black;
+	width: 450px;
+	height: 200px;
+	margin: 0px 0px 0px 200px;
+}
+
+.new_box{
+	padding: 100px;
+}
+.box{
+	height: 600px;
+	width: 600px;
+	background: black;
+	
+}
+.new_box .box .box1{
+	height: 150px;
+	width: 150px;
+	background: red;
+	margin: 0px 300px 0px 300px ;
+    
+}
